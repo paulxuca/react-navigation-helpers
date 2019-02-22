@@ -4,9 +4,9 @@
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
-    "build": "tsc",
     "prepublishOnly": "npm run build",
-    "publish": "np"
+    "publish": "np",
+    "build": "tsc"
   },
   "peerDependencies": {
     "react-native": "^0.58.5",
