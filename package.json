@@ -1,6 +1,6 @@
 {
   "name": "@paulxuca/react-navigation-helpers",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
@@ -9,8 +9,8 @@
     "publish": "np"
   },
   "peerDependencies": {
-    "react-navigation": "^3.3.0",
-    "react-native": "^0.58.5"
+    "react-native": "^0.58.5",
+    "react-navigation": "^3.3.0"
   },
   "devDependencies": {
     "@types/lodash.clonedeep": "^4.5.5",
